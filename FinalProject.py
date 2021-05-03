@@ -39,7 +39,7 @@ class userInterface():
 
         # Create Buttons
         self.button1 = Button(self.root, text="What is Depression?", command=openWhatIsDepression)
-        self.button3 = Button(self.root, text="How to Spot Some With Issues", command=openHowToStop)
+        self.button3 = Button(self.root, text="How to Spot Someone With Issues", command=openHowToStop)
         self.button2 = Button(self.root, text="Crisis", command=openCrisis)
         self.button4 = Button(self.root, text="Contact List", command=openContactList)
 
