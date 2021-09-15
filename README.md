@@ -1,4 +1,4 @@
-# FinalProject 
+# Help and Guide 
 
 Help and Guide
 Today’s society faces many challenges. With all this constant challenge we have encountered a silent evil that have emerged and is taking the lives of so many. With the increase in cases of suicide, a demand for people to understand and help people with mental health problems is nigh. With this thinking I decided to create an application in which will help people during crises, guiding friends and family to understand and help the ones they love though this difficult time.
